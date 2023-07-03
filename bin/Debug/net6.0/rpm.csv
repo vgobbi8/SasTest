@@ -1,0 +1,13 @@
+Leitura (Hz),RPM (%),Resultado (RPM),Passou?
+0,0.0,Dentro da escala,Passou
+598.425,3.1716525,Dentro da escala,Passou
+958.531,5.0802143,Dentro da escala,Passou
+5000,26.5,Dentro da escala,Passou
+10000,53.0,Dentro da escala,Passou
+10526.5852,55.790901559999995,Dentro da escala,Passou
+12000,63.6,Dentro da escala,Passou
+15000,79.5,Dentro da escala,Passou
+20000,106.0,Dentro da escala,Passou
+25000,132.5,Acima da escala,Passou
+30000,159.0,Acima da escala,Passou
+28000,148.4,Acima da escala,Passou

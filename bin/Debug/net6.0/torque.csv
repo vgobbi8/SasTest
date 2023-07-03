@@ -1,0 +1,13 @@
+Leitura (Volts),Torque (%),Resultado (Torque),Passou?
+0,100,Dentro da escala,Passou
+1.52,69.6,Dentro da escala,Passou
+2.63,47.400000000000006,Dentro da escala,Passou
+3.25,35.0,Dentro da escala,Passou
+3.88,22.400000000000006,Dentro da escala,Passou
+4.25,15.0,Dentro da escala,Passou
+6.52,-30.399999999999977,Abaixo da escala,Não passou
+10.0,-100.0,Abaixo da escala,Não passou
+15.8,-216.0,Abaixo da escala,Não passou
+17.95,-259.0,Abaixo da escala,Não passou
+19.0,-280.0,Abaixo da escala,Não passou
+32,-540,Abaixo da escala,Não passou

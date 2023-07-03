@@ -1,0 +1,17 @@
+D:\Dev\SasTest\SasTest\bin\Debug\net6.0\SasTest.exe
+D:\Dev\SasTest\SasTest\bin\Debug\net6.0\SasTest.deps.json
+D:\Dev\SasTest\SasTest\bin\Debug\net6.0\SasTest.runtimeconfig.json
+D:\Dev\SasTest\SasTest\bin\Debug\net6.0\SasTest.dll
+D:\Dev\SasTest\SasTest\bin\Debug\net6.0\SasTest.pdb
+D:\Dev\SasTest\SasTest\obj\Debug\net6.0\SasTest.csproj.AssemblyReference.cache
+D:\Dev\SasTest\SasTest\obj\Debug\net6.0\SasTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SasTest\SasTest\obj\Debug\net6.0\SasTest.AssemblyInfoInputs.cache
+D:\Dev\SasTest\SasTest\obj\Debug\net6.0\SasTest.AssemblyInfo.cs
+D:\Dev\SasTest\SasTest\obj\Debug\net6.0\SasTest.csproj.CoreCompileInputs.cache
+D:\Dev\SasTest\SasTest\obj\Debug\net6.0\SasTest.dll
+D:\Dev\SasTest\SasTest\obj\Debug\net6.0\refint\SasTest.dll
+D:\Dev\SasTest\SasTest\obj\Debug\net6.0\SasTest.pdb
+D:\Dev\SasTest\SasTest\obj\Debug\net6.0\SasTest.genruntimeconfig.cache
+D:\Dev\SasTest\SasTest\obj\Debug\net6.0\ref\SasTest.dll
+D:\Dev\SasTest\SasTest\bin\Debug\net6.0\CsvHelper.dll
+D:\Dev\SasTest\SasTest\obj\Debug\net6.0\SasTest.csproj.CopyComplete

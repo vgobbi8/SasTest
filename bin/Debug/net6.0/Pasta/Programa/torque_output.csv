@@ -1,0 +1,4 @@
+﻿passo,Descrição,Resultado Esperado, Resultado Obtido,Status
+1,Executar o Script Teste Torque, Script Teste Torque sendo executado,Script Teste Torque Sendo Executado, 
+2,Ler o contador de erros do script Teste Torque,Contador de erros igual a 0,Contador de erros igual a 4,Falhou
+3,Final de execução,,,

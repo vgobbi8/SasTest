@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z8ZeSdpqCiQIzbydzCXdmdZl29HYfdGtzbbysCEyVUyIeu7Ah7zytKW8mz1IyHPKUWG4YhC6lVVseYKaw9y+RA==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\SasTest\\SasTest\\SasTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
